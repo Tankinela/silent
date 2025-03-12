@@ -1,0 +1,30 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "silent_hill_2_remake\angela_orosco\angela_orosco_face"
+	"$bumpmap" "silent_hill_2_remake\angela_orosco\angela_orosco_face_normal"
+
+	$nocull 0
+	$normalmapalphaenvmapmask 1 
+"$nodecal" 1							
+	"$phong" "1"						
+	"$phongboost"	"0.35"
+ 		
+                 "$phongexponenttexture" "silent_hill_2_remake\angela_orosco\angela_orosco_G3"				
+		
+	$lightwarptexture "silent_hill_2_remake\angela_orosco\lightwarp_flesh"
+
+                 "$halflambert" "1"
+
+                "$phongexponent" "15"
+	
+	"$phongfresnelranges"	"[0.8 2 10.5]"			
+			
+
+	//"$rimlight" "1"
+	"$rimlightboost" "0.03"	
+	"$rimexponent" "1"
+
+
+ 
+}	
+	

@@ -1,0 +1,23 @@
+VertexLitGeneric
+{
+	"$basetexture" "silent_hill_2_remake\angela_orosco\angela_orosco_tear"
+	"$bumpmap" "silent_hill_2_remake\angela_orosco\angela_orosco_tear_normal"
+$surfaceprop Flesh
+$phong 10
+$phongexponent 50
+$phongboost "2"
+$phongtint "[.85 .85 1]"
+$phongfresnelranges "[.5 .85 30]"
+"$nodecal" 1
+
+                 $nocull 1
+	$alphatest 0
+	$allowalphatocoverage 0
+	"$translucent" 		1
+
+                "$Envmap" "silent_hill_2_remake\angela_orosco\angela_orosco_envmap"
+	"$normalmapalphaenvmapmask"	"1"
+	"$envmaptint"	"[0.005 0.005 0.005]"
+	"$envmapfresnel"	"1"
+
+}
